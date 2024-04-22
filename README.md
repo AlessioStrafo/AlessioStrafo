@@ -5,6 +5,7 @@ class Bio extends SoftwareDeveloper {
   title    = 'Junior Java Back-end Developer';
   location = 'Pontinia, IT';
 }
+
 class Skills extends SoftwareDeveloper {
   languages  = ['Java'];
   databases  = ['MySQL'];
