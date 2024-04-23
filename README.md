@@ -1,6 +1,6 @@
 ### Hi there 👋, mi chiamo Alessio
 #### Sono uno sviluppatore back-end Java junior
-![Sono uno sviluppatore back-end Java junior](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Sono uno sviluppatore back-end Java junior]
 
 Programmatore Java junior con una forte passione per la tecnologia. Dimostro spiccate capacità organizzative e collaboro efficacemente in team. Sono inoltre motivato a crescere professionalmente e ho un forte orientamento al raggiungimento degli obiettivi.
 
